@@ -1,4 +1,4 @@
-# VisioStencils
+# VisioStencils collection
 
 # Keywords: Azure, Storage, Virtual Machine, Data, Networking, NSG, ASG, Key vault, Identity
 
