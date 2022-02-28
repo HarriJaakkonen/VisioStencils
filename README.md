@@ -19,7 +19,7 @@ Added ADFS, Data, network and Identity icons.
 ![image](https://user-images.githubusercontent.com/89185943/155962826-4c4a7d64-fd92-4fd7-a96f-25f8ec2839f4.png)
 
 v0.3 - 03/04/2022
-Added ADFS, Data, network and Identity icons.
+Added PowerBI, Data, network and more Identity icons.
 
 ![image](https://user-images.githubusercontent.com/89185943/155998101-06fff035-b2f4-43b4-9561-575c0e40c3ce.png)
 
