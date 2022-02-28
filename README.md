@@ -1,3 +1,8 @@
 # VisioStencils
 
-I will start doing my own Visio stencils pack from icons I use a lot.
+#Keywords: Azure, Storage, Virtual Machine, Data, Networking, NSG, ASG, Key vault
+
+v0.1
+I will start doing my own Visio stencils pack from icons I use a lot. Work in progress, have patience.
+
+
