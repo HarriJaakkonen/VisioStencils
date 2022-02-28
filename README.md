@@ -13,4 +13,7 @@ Added B2C, Azure AD B2B, Function apps etc
 
 ![image](https://user-images.githubusercontent.com/89185943/155943682-224b2d17-b004-4f53-8b47-a6c9c7d42b3e.png)
 
+v0.3 - 03/01/2022
+Added ADFS, Data, network and Identity icons.
 
+![image](https://user-images.githubusercontent.com/89185943/155962826-4c4a7d64-fd92-4fd7-a96f-25f8ec2839f4.png)
