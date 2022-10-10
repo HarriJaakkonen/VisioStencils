@@ -23,3 +23,9 @@ Added PowerBI, Data, network and more Identity icons.
 
 ![image](https://user-images.githubusercontent.com/89185943/155998101-06fff035-b2f4-43b4-9561-575c0e40c3ce.png)
 
+v0.4 - 10/10/2022
+Added Social media and developer icons.
+
+![image](https://user-images.githubusercontent.com/89185943/194833974-6a29480e-1e7c-4ddd-96af-217b28ab5b58.png)
+
+
